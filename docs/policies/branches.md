@@ -1,7 +1,7 @@
 Data|Versão|Descrição|Autor
 -|-|-|-
 04/04|1.0.0|Criação da Política| Sérgio Cipriano|
-05/04|1.0.1|Criação da Política| Sérgio Cipriano|
+05/04|1.0.1|Adicionando mais critérios para nomes| Sérgio Cipriano|
 
 # Política de criação de branch
 
